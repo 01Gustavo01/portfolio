@@ -18,7 +18,7 @@ Me chamo Gustavo Duarte, um entusiasta da tecnologia que transforma ideias em re
 
 ## Como Acessar Meu Portfolio
 
-Você pode explorar meu portfólio clicando [**<span style="font-size: larger;">AQUI</span>**](https://portfolio-sigma-lemon-76.vercel.app/index.html). Sinta-se à vontade para navegar pelos projetos, dar feedback ou entrar em contato para colaborações e oportunidades.
+Você pode explorar meu portfólio clicando [<span style="font-size: 2em;">**AQUI**</span>](https://portfolio-sigma-lemon-76.vercel.app/index.html). Sinta-se à vontade para navegar pelos projetos, dar feedback ou entrar em contato para colaborações e oportunidades.
 
 Sinta-se à vontade para navegar pelos projetos, dar feedback ou entrar em contato para colaborações e oportunidades.
 
