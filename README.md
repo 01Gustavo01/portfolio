@@ -4,7 +4,7 @@ Bem-vindo ao meu espaço digital, onde a criatividade encontra a inovação! Est
 
 ## Sobre Mim
 
-Me chamo [Seu Nome], um entusiasta da tecnologia que transforma ideias em realidade através do código. Com experiência em HTML e CSS, estou sempre buscando aprender e evoluir no mundo do desenvolvimento web.
+Me chamo Gustavo Duarte, um entusiasta da tecnologia que transforma ideias em realidade através do código. Com experiência em HTML e CSS, estou sempre buscando aprender e evoluir no mundo do desenvolvimento web.
 
 ## O que você encontrará aqui
 
