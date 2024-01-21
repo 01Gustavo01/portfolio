@@ -20,11 +20,9 @@ Me chamo [Seu Nome], um entusiasta da tecnologia que transforma ideias em realid
 
 Você pode explorar meu portfólio clicando [aqui](https://portfolio-sigma-lemon-76.vercel.app/index.html). Sinta-se à vontade para navegar pelos projetos, dar feedback ou entrar em contato para colaborações e oportunidades.
 
-## Contato
 
-- **E-mail**: seuemail@example.com
-- **LinkedIn**: [Seu Nome no LinkedIn](https://www.linkedin.com/in/seu-nome/)
-- **GitHub**: [Seu Perfil no GitHub](https://github.com/seu-username)
+
+
 
 Sinta-se em casa, e obrigado por visitar meu portfolio! Estou ansioso para compartilhar minha paixão e trabalho com você. 😊
 
